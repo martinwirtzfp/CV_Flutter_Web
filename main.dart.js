@@ -33130,7 +33130,7 @@ $0(){var s=this.a
 s.d=!s.d},
 $S:0}
 A.Cj.prototype={
-T(a){return new A.zQ(new A.nM("https://shapes.inc/api/public/avatar/wario-ly2q"),75,null)}}
+T(a){return new A.zQ(new A.nM("https://ui-avatars.com/api/?name=Martin+Sanchez&size=200&background=0D8ABC&color=fff"),75,null)}}
 A.rP.prototype={
 T(a){var s=this,r=null,q=A.zA(10),p=A.c([new A.eS(2,B.du,B.hH,new A.t(0,3),5)],t.sq),o=s.d,n=s.e,m=t.F
 return A.Ag(r,A.a_n(B.fc,A.c([A.a9z(10,A.rH(o,A.aL(B.c.ai(25.5),n.B()>>>16&255,n.B()>>>8&255,n.B()&255),r,80),r,r,r,10,r,r),A.n4(A.c([A.DG(A.c([A.rH(o,n,r,28),B.v4,A.ix(s.f,A.fJ(r,r,n,r,r,r,r,r,r,r,r,20,r,r,B.bU,r,r,!0,r,r,r,r,r,r,r,r),r)],m),B.aw,B.al,B.bZ),B.v5,s.r],m),B.av,B.al)],m),B.iq),B.I,r,new A.e1(B.i,r,r,q,p,r,B.aN),r,r,B.dW,B.k5,r,r,s.c)}}
